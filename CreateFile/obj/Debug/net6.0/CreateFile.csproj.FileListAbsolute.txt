@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Git\CreateFile\bin\Debug\net6.0\CreateFile.exe
+C:\Users\thiag\Desktop\Git\CreateFile\bin\Debug\net6.0\CreateFile.deps.json
+C:\Users\thiag\Desktop\Git\CreateFile\bin\Debug\net6.0\CreateFile.runtimeconfig.json
+C:\Users\thiag\Desktop\Git\CreateFile\bin\Debug\net6.0\CreateFile.dll
+C:\Users\thiag\Desktop\Git\CreateFile\bin\Debug\net6.0\CreateFile.pdb
+C:\Users\thiag\Desktop\Git\CreateFile\obj\Debug\net6.0\CreateFile.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Git\CreateFile\obj\Debug\net6.0\CreateFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Git\CreateFile\obj\Debug\net6.0\CreateFile.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Git\CreateFile\obj\Debug\net6.0\CreateFile.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Git\CreateFile\obj\Debug\net6.0\CreateFile.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Git\CreateFile\obj\Debug\net6.0\CreateFile.dll
+C:\Users\thiag\Desktop\Git\CreateFile\obj\Debug\net6.0\refint\CreateFile.dll
+C:\Users\thiag\Desktop\Git\CreateFile\obj\Debug\net6.0\CreateFile.pdb
+C:\Users\thiag\Desktop\Git\CreateFile\obj\Debug\net6.0\CreateFile.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Git\CreateFile\obj\Debug\net6.0\ref\CreateFile.dll
